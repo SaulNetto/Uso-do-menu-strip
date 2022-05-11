@@ -1,0 +1,13 @@
+H:\POO\AppExemploMenu\AppExemploMenu\AppExemploMenu\bin\Debug\AppExemploMenu.exe.config
+H:\POO\AppExemploMenu\AppExemploMenu\AppExemploMenu\bin\Debug\AppExemploMenu.exe
+H:\POO\AppExemploMenu\AppExemploMenu\AppExemploMenu\bin\Debug\AppExemploMenu.pdb
+H:\POO\AppExemploMenu\AppExemploMenu\AppExemploMenu\obj\Debug\AppExemploMenu.csproj.AssemblyReference.cache
+H:\POO\AppExemploMenu\AppExemploMenu\AppExemploMenu\obj\Debug\AppExemploMenu.csproj.SuggestedBindingRedirects.cache
+H:\POO\AppExemploMenu\AppExemploMenu\AppExemploMenu\obj\Debug\AppExemploMenu.FrmAzul.resources
+H:\POO\AppExemploMenu\AppExemploMenu\AppExemploMenu\obj\Debug\AppExemploMenu.FrmRosa.resources
+H:\POO\AppExemploMenu\AppExemploMenu\AppExemploMenu\obj\Debug\AppExemploMenu.FrmVerde.resources
+H:\POO\AppExemploMenu\AppExemploMenu\AppExemploMenu\obj\Debug\AppExemploMenu.Properties.Resources.resources
+H:\POO\AppExemploMenu\AppExemploMenu\AppExemploMenu\obj\Debug\AppExemploMenu.csproj.GenerateResource.cache
+H:\POO\AppExemploMenu\AppExemploMenu\AppExemploMenu\obj\Debug\AppExemploMenu.csproj.CoreCompileInputs.cache
+H:\POO\AppExemploMenu\AppExemploMenu\AppExemploMenu\obj\Debug\AppExemploMenu.exe
+H:\POO\AppExemploMenu\AppExemploMenu\AppExemploMenu\obj\Debug\AppExemploMenu.pdb
